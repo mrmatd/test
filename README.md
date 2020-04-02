@@ -25,6 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Gatti](https://www.nuvias.com/wp-content/uploads/2018/08/github.jpeg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
