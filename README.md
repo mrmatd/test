@@ -28,6 +28,8 @@ Syntax highlighted code block
 ![Gatti](https://www.nuvias.com/wp-content/uploads/2018/08/github.jpeg)
 
 
+{% include plot.html %}
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
