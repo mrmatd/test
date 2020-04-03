@@ -11,3 +11,5 @@ $$
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
+
+I usually search using [Google](https://www.google.com "Google").
