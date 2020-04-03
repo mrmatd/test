@@ -4,7 +4,9 @@ title: Another page
 description: This is just another page
 ---
 
-## Obiettivo 1
+# Obiettivo 1
+## Obiettivo
+### Obiettivo
 
 La [funzione logistica generalizzata](https://en.wikipedia.org/wiki/Generalised_logistic_function) che ho utilizzato è la seguente
 
