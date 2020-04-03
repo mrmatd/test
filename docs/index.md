@@ -7,10 +7,12 @@ description: This is just another page
 ## Obiettivo 1
 
 La [funzione logistica generalizzata](https://en.wikipedia.org/wiki/Generalised_logistic_function) che ho utilizzato è la seguente
+
 $$
 Y(t) = A + \frac{K-A}{(C+Qe^{Bt})^{1/v}}
 $$
-dove $a, k, c, q, b, v$ sono i parametri da ottimizzare mentre $x$ è la variabile indipendente.
+
+dove {% raw %}$a, k, c, q, b, v${% raw %} sono i parametri da ottimizzare mentre $x$ è la variabile indipendente.
 
   
 | Priority apples | Second priority | Third priority |
