@@ -19,7 +19,7 @@ dove $$a, k, c, q, b, v$$ sono i parametri da ottimizzare mentre $x$ è la varia
   
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
-| ambrosia | gala | red delicious |
+| ambrosia | gala | red delicious <font color="lightblue">&#9473;</font> |
 | pink lady | jazz | macintosh  <font color="green">&#x25BC;</font> |
 | honeycrisp | granny smith | fuji  <font color="red">&#x25B2;</font>  |
 
