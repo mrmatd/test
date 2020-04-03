@@ -1,3 +1,6 @@
+# Obiettivi
+## Obiettivo 1
+
 $$
 Y(t) = A + \frac{K-A}{(C+Qe^{Bt})^{1/v}}
 $$
