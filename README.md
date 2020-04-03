@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/mrmatd/test/edit/master/RE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+{% include plot.html %}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -28,7 +30,7 @@ Syntax highlighted code block
 ![Gatti](https://www.nuvias.com/wp-content/uploads/2018/08/github.jpeg)
 
 
-{% include plot.html %}
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
