@@ -20,4 +20,4 @@ $$
 
 I usually search using [Google](https://www.google.com "Google").
 
-{% include plot.html %}
+{% include plot2.html %}
