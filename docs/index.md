@@ -14,6 +14,6 @@ $$
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
 
-/></div>
+</div>
 
 I usually search using [Google](https://www.google.com "Google").
