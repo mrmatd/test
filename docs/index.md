@@ -19,3 +19,5 @@ $$
 
 
 I usually search using [Google](https://www.google.com "Google").
+
+{% include plot.html %}
