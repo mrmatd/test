@@ -25,3 +25,9 @@ dove $$a, k, c, q, b, v$$ sono i parametri da ottimizzare mentre $x$ è la varia
 I usually search using [Google](https://www.google.com "Google").
 
 {% include plot2.html %}
+
+* item 1
+* item 2
+  * item 2.1
+  * item 2.2
+* item 3
