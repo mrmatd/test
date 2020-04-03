@@ -6,7 +6,7 @@ $$
 Y(t) = A + \frac{K-A}{(C+Qe^{Bt})^{1/v}}
 $$
 
-<div style="text-align: center">
+<center>
   
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
@@ -14,6 +14,6 @@ $$
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
 
-</div>
+</center>
 
 I usually search using [Google](https://www.google.com "Google").
