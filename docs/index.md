@@ -1,4 +1,4 @@
-# Obiettivi
+
 ## Obiettivo 1
 
 $$
