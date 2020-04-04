@@ -33,3 +33,6 @@ I usually search using [Google](https://www.google.com "Google").
   * item 2.1
   * item 2.2
 * item 3
+
+![titolo prova](https://eli.thegreenplace.net/images/2016/animline.gif){:class="img-responsive"}
+
