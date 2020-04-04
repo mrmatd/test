@@ -4,4 +4,4 @@ title: About
 description: This is just about page
 ---
 
-{{ site.time | date: "%d/%m/%Y" }}
+Aggiornato il {{ site.time | date: "%d/%m/%Y" }}
