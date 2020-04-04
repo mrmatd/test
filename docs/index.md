@@ -36,4 +36,4 @@ I usually search using [Google](https://www.google.com "Google").
 
 ![titolo prova](https://eli.thegreenplace.net/images/2016/animline.gif){:class="img-responsive"}
 
-{{ page.date }}
+<p>{{ page.date }}</p>
