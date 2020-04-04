@@ -4,4 +4,4 @@ title: About
 description: This is just about page
 ---
 
-{{ site.time | date: '%y' }}
+{{ site.time | date: "%d/%m/%Y" }}
